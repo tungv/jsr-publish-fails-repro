@@ -1,3 +1,3 @@
-import { bold } from "picocolors";
+import _ from "lodash";
 
-console.log(bold("Hello via Bun!"));
+console.log(_.concat("Hello via Bun!"));

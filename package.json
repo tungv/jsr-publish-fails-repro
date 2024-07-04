@@ -4,12 +4,13 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
+    "@types/lodash": "^4.17.6",
     "jsr": "^0.12.4"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "picocolors": "^1.0.1"
+    "lodash": "^4.17.21"
   }
 }
